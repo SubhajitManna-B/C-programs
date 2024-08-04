@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605120684 source:c:\users\subhajit\desktop\c programme\gross salery\main.c
+	<stdio.h>
+	<stdlib.h>
+
