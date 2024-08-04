@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604494884 source:c:\users\subhajit\desktop\c programme\division\main.c
+	<stdio.h>
+	<stdlib.h>
+
